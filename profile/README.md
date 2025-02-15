@@ -6,12 +6,6 @@
 - **NetherJar** - A lightweight Minecraft launcher for managing `.jar` files with Steam integration.
 - **Mod Manager (WIP)** - A universal mod manager for Nintendo Switch and other platforms.
 
-## 🔧 Technologies We Use
-- **Python**, **JavaScript**, **C#**
-- **Electron**, **Node.js**
-- **Flatpak**, **AppImage**, **Windows Executables**
-- **Steam Cloud & Integration**
-
 ## 🏆 Our Mission
 ApeXPloit Studios is committed to developing **open-source, user-friendly** applications that prioritize **performance, customization, and cross-platform compatibility**.
 
